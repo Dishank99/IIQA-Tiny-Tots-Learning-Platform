@@ -5,7 +5,7 @@ IIQA is a Web Application with the features of online classroom, automatic image
  For generation of quiz from images, we have used Visual Question generation (VQG) and Visual Question Answering (VQA). Both these techniques are amalgamation of Deep Learning domains - Computer Vision and Natural Language Processing. Visual Question Generation serves the purpose of generating question from the image and Visual Question Answering generates the answer for the given image and question generated. In our Application we are using both these methodologies in sequential manner. At first, question will be generated for the image using Visual Question Generation technique and then, that question along with the image will be further processed to generate answer using Visual Question Answering technique. A REST Webservice is built that will be using these methodologies and to serve question answer pairs along with options for the provided set of images. Hence, a quiz will be created.
 
 ## IIQA Application Architecture
-![Application Architecture](https://github.com/Dishank99/IIQA-Tiny-Tots-Learning-Platform/blob/master/Final%20Application%20Arch.%20draft2.png)
+![Application Architecture](https://github.com/Dishank99/IIQA-Tiny-Tots-Learning-Platform/blob/master/Final%20Application%20Arch.%20draft3.png)
 
 #### IIQA Architecture has 3 primary components as given below with respective github link:
 * IIQA UI - ReactJS App (https://github.com/anshuul/iiqa)
